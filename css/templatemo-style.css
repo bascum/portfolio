@@ -171,8 +171,8 @@ h5 {
 #home {
   background: linear-gradient(
       180deg,
-      rgba(0, 0, 0, 0.695) 0%,
-      rgba(0, 0, 0, 0.849) 35%,
+      rgba(0, 0, 0, 0.6) 0%,
+      rgba(0, 0, 0, 0.8) 35%,
       rgba(0, 0, 0, 1) 100%
     ),
     url("../images/home-bg.png");
