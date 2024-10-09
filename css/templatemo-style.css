@@ -289,7 +289,7 @@ h5 {
   margin-bottom: 30px;
 }
 #portfolio .portfolio-thumb .portfolio-overlay {
-  background: #d43f52;
+  background: #0f1c33;
   top: 0;
   left: 0;
   right: 0;
@@ -301,6 +301,11 @@ h5 {
   padding-top: 60px;
   transition: all 0.4s ease-in-out;
 }
+
+.portfolio-overlay p {
+  color: white;
+}
+
 #portfolio .portfolio-thumb:hover .portfolio-overlay {
   cursor: pointer;
   opacity: 0.8;
